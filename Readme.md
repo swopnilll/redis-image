@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In the previous sections, we discussed the process of creating custom Docker images using Dockerfile. In this section, we'll create a Dockerfile to build an image that runs a Redis server.
+ In this, we'll create a Dockerfile to build an image that runs a Redis server.
 
 ## Project Setup
 
